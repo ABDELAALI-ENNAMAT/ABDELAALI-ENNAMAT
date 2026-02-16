@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/any-name/any-name/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ABDELAALI-ENNAMAT/ABDELAALI-ENNAMAT/output/snake.svg" alt="Snake animation" />
 
 ###
