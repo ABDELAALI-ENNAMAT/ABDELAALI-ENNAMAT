@@ -115,6 +115,17 @@ I love exploring the truth hidden within numbers whether it's in a financial led
 
 ###
 <br/>
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                   SECTION 11: ANIMATED JOKE + PROGRESS TRACKER                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<h3 align="left">A joke for every visitor ✨:</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kaelith69/widget-templates/main/joke.svg" width="100%" alt="Programming Joke Widget"/>
+</div>
+
+
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                         SECTION 16: FINAL CTA BOX                             -->
