@@ -15,10 +15,6 @@
 <!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ VISITOR + ANIMATED INTRO ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 <div align="center">
 
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ABDELAALI-ENNAMAT.ABDELAALI-ENNAMAT&left_color=blueviolet&right_color=purple&left_text=Profile%20Views" alt="visitors"/>
-  
-  <br/><br/>
   
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -111,18 +107,48 @@ I love exploring the truth hidden within numbers whether it's in a financial led
 
 ---
 
-<h3 align="left">🔥 GitHub Activity:</h3>
+<h3 align="left">🔥 Feeding the snake with my contributions:</h3>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ABDELAALI-ENNAMAT/ABDELAALI-ENNAMAT/output/snake.svg" alt="Snake animation" />
 
 ###
+<br/>
 
-
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         SECTION 16: FINAL CTA BOX                             -->
+<!-- ═════════════════════════════════════════════════════════════════════���═════════ -->
 
 <div align="center">
-  <p>💼 Open to collaboration and exciting data science opportunities!</p>
-  <p>⭐️ From <a href="https://github.com/ABDELAALI-ENNAMAT">ABDELAALI-ENNAMAT</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e40c9,100:0d1117&height=2" width="100%"/>
 </div>
+
+<div align="center">
+  
+  ```
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║                                                                         ║
+  ║   💼  Open to collaboration & exciting opportunities!                   ║
+  ║   🌍  Let's build something.                                             ║
+  ║                                                                         ║
+  ║              "alhamdulillah for everything"                              ║
+  ║                                                                         ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+  ```
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABDELAALI-ENNAMAT&style=for-the-badge&color=a78bfa&label=TOTAL+PROFILE+VIEWS" alt="Profile Views Counter"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           ANIMATED FOOTER WAVE                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,25:8b5cf6,50:6e40c9,75:161b22,100:0d1117&height=150&section=footer" alt="footer"/>
+
