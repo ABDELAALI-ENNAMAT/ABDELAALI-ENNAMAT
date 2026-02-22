@@ -1,15 +1,43 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                                                                               -->
+<!--    █████╗ ██████╗ ██████╗ ███████╗██╗      █████╗  █████╗ ██╗     ██╗         -->
+<!--   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██╔══██╗██╔══██╗██║     ██║         -->
+<!--   ███████║██████╔╝██║  ██║█████╗  ██║     ███████║███████║██║     ██║         -->
+<!--   ██╔══██║██╔══██╗██║  ██║██╔══╝  ██║     ██╔══██║██╔══██║██║     ██║         -->
+<!--   ██║  ██║██████╔╝██████╔╝███████╗███████╗██║  ██║██║  ██║███████╗██║         -->
+<!--   ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝         -->
+<!--                                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ANIMATED HEADER ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:6e40c9,75:8b5cf6,100:a78bfa&height=220&section=header&text=ABDELAALI%20ENNAMAT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Risk%20Analyst%20%7C%20AI%20Engineer&descSize=18&descAlignY=55&descAlign=50" alt="header"/>
+
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ VISITOR + ANIMATED INTRO ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 <div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/ffa1f49dbfd3109e54ba5e1bddd9534bf6d1cc2e84b7ee84e6e03be1a87af82f/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030312f3735392f3736382f6e6f6e5f32782f646174612d736369656e746973742d776f72642d62616e6e65722d766563746f722e6a7067"  />
-</div>
 
-###
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ABDELAALI-ENNAMAT.ABDELAALI-ENNAMAT&left_color=blueviolet&right_color=purple&left_text=Profile%20Views" alt="visitors"/>
+  
+  <br/><br/>
+  
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%94%8D+Exploring+Data+%7C+%F0%9F%9B%A1%EF%B8%8F+Managing+Risk+%7C+%F0%9F%A4%96+Building+AI;%E2%9A%A1+Turning+Numbers+Into+Insights+%26+Impact" alt="Typing SVG"/>
+  </a>
 
-<h1 align="center">Hey there! I'm Abdelaali 👋</h1>
+  <br/><br/>
 
-###
+  <!-- Social Badges -->
+  <a href="mailto:abdelaaliennamat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdelaali-ennamat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ABDELAALI-ENNAMAT">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ABDELAALI-ENNAMAT.ABDELAALI-ENNAMAT&left_color=blueviolet&right_color=purple"  />
 </div>
 
 ###
@@ -91,22 +119,6 @@ I love exploring the truth hidden within numbers whether it's in a financial led
 
 ###
 
----
-
-<h3 align="left">📫 Connect with me:</h3>
-
-###
-
-<div align="left">
-  <a href="mailto:abdelaaliennamat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelaali-ennamat?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 ---
 
